@@ -4,6 +4,11 @@ Gem::Specification.new do |s|
   s.summary = "Gems exercise"
   s.description = "A simple placeholder text generator"
   # fill these fields in
-  s.authors = []
-  s.files = []
+  s.authors = ["Tristan"]
+  s.files = [
+  "lib/ruby_gems_exercise.rb",
+  "lib/ruby_gems_exercise/words.rb",
+  "lib/ruby_gems_exercise/sentence.rb",
+  "lib/ruby_gems_exercise/paragraph.rb",
+]
 end
